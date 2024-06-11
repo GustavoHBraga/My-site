@@ -4,7 +4,7 @@
         :photo="photo"
         title="Gustavo Braga"
         subtitle = "@GustavoHenriqueBraga"
-        heading = "FIAP STUDENT and Senior DevOps"
+        heading = "Software Engineer - Senior DevOps"
         />
     
     <div class="max-w-xs mx-auto">
